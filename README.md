@@ -44,8 +44,8 @@ To use this project, follow these steps:
 4. Run the application in the python terminal:
    - python sentiment_analysis.py
 
-5. Output:
-   ![Alt Text](relative-path-to-screenshot.png)
+<!--5. Output:
+   ![Alt Text](relative-path-to-screenshot.png)--!>
     
 
 ## Credits
