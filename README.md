@@ -44,7 +44,7 @@ To use this project, follow these steps:
 4. Run the application in the python terminal:
    - python sentiment_analysis.py
   
-5. Ouput
+5. Ouput:
    - Sample output of the program.
 ![Capture](https://github.com/Shal2903/finalCapstone/assets/135839655/f58320ac-b00f-4a13-88c0-809658fb9ee9)
 
